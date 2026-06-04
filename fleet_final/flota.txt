@@ -1,0 +1,6 @@
+5
+CAR1 Toyota sedan 1 5 petrol 500.00
+CAR2 BMW suv 1 5 diesel 200.00
+CAR3 Dacia hatchback 1 5 petrol 80.00
+CAR4 Tesla suv 0 5 electric 250.00
+CAR5 Renault van 1 8 diesel 150.00
